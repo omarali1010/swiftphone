@@ -5,6 +5,12 @@
 
 Swift Phone ist ein Stille Post Spiel (angelehnt an Gartic Phone) entwickelt für das iPhone. Bei dem Spiel schreiben zuerst alle Spieler innerhalb einer gegebenen Zeit einen beliebigen Satz. Danach werden die Sätze verteilt, wobei keiner den eigenen Satz bekommt. Der erhaltene Satz wird innerhalb einer gegebenen Zeit gezeichnet und anschließend werden die Bilder verteilt. Hierbei gilt ebenfalls, dass kein Spieler das eigene Bild bekommt. Das Bild wird nun innerhalb einer gegebenen Zeit beschrieben und anschließend wird der Satz wieder verteilt. Das Ganze wiederholt sich bis alle Spieler einen Satz/ein Bild von jemand anderem bekommen haben. Am Ende des Spiel gibt es eine Auflösung, in welcher der gesamte Verlauf gezeigt wird.
 
+## Warum die App entwickelt wurde
+Dieses Projekt war ein Teil des "CS2365 	Swift-Programmierung unter iOS" an der THM, welches von 4 Studenten entwickelt wurde :
+- David Velke
+- Anastasia Homagin
+- Niko Müller
+- Omar Hammad
 
 ## Anleitung
 
